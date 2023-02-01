@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\Circle\bin\Debug\Circle.exe.config
+C:\Users\spark\source\repos\Circle\bin\Debug\Circle.exe
+C:\Users\spark\source\repos\Circle\bin\Debug\Circle.pdb
+C:\Users\spark\source\repos\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\Circle\obj\Debug\Circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\Circle\obj\Debug\Circle.exe
+C:\Users\spark\source\repos\Circle\obj\Debug\Circle.pdb
